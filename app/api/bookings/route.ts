@@ -12,7 +12,7 @@ const workingHours = [
   { hour: 13, minutes: [0, 30] },
   { hour: 14, minutes: [0, 30] },
   { hour: 15, minutes: [0, 30] },
-}
+]
 // Possible appointment durations in minutes
 const appointmentDurations = [30, 60];
 
